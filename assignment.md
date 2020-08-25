@@ -14,9 +14,9 @@
 
 ## 3. Term Familiarity
 
-Score each of the following terms based on how comfortable you are with the concept:
+> Score each of the following terms based on how comfortable you are with the concept:
 
-- 1 = I've never heard this before
+- 1 = I've never heard this term before
 - 2 = I've heard this before but am not quite sure what it refers to
 - 3 = I would know what this refers to when I see it in context / the literature
 - 4 = I know what this refers to and use it in my own writing
