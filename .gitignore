@@ -1,0 +1,12 @@
+# R & Rstudio temp files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output files
+*.utf8.md
+*.knit.md
+*.html
+*.docx
+*.pdf
